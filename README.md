@@ -1,14 +1,14 @@
 # About DSC KR
-> Developer Student Clubs are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome.
+> Developer Student Clubs are university-based community groups for students interested in Google developer technologies. <br>Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome.
 
 ### Google Official
 * Korea
    * [Google Maps](https://www.google.com/maps/d/u/0/edit?mid=10UIP22sbw_Nhxo39omTnDYarWkJkCE1j&ll=35.07465347124864%2C127.22487998348774&z=7)<br>
    
 * Global
-   * [Sites of DSC Global 1](https://dsc.community.dev/)<br>
-   * [Introduction to Developer Student Clubs](https://developers.google.com/community/dsc)<br>
-   * [Solution Challenge 2020](https://events.withgoogle.com/dsc-solution-challenge/)<br>
+   * [Sites of DSC Global](https://dsc.community.dev/)
+   * [Introduction to Developer Student Clubs](https://developers.google.com/community/dsc)
+   * [Solution Challenge 2020](https://events.withgoogle.com/dsc-solution-challenge/)
    
 
 ### [Sites of DSC KOREA](https://sites.google.com/view/dsckorea/%ED%99%88)
